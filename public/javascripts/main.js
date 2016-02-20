@@ -94,4 +94,3 @@
 		}
 	}) // end of capitalize filter
 })(); 
-
